@@ -1,0 +1,25 @@
+main.o: main.ino \
+ /home/user/arduino/hardware/arduino/cores/arduino/Arduino.h \
+ /home/user/arduino/hardware/arduino/cores/arduino/binary.h \
+ /home/user/arduino/hardware/arduino/cores/arduino/WCharacter.h \
+ /home/user/arduino/hardware/arduino/cores/arduino/WString.h \
+ /home/user/arduino/hardware/arduino/cores/arduino/HardwareSerial.h \
+ /home/user/arduino/hardware/arduino/cores/arduino/Stream.h \
+ /home/user/arduino/hardware/arduino/cores/arduino/Print.h \
+ /home/user/arduino/hardware/arduino/cores/arduino/Printable.h \
+ /home/user/arduino/hardware/arduino/cores/arduino/USBAPI.h \
+ /home/user/arduino/hardware/arduino/cores/arduino/Arduino.h \
+ /home/user/arduino/hardware/arduino/variants/standard/pins_arduino.h \
+ /home/user/arduino/hardware/arduino/cores/arduino/Arduino.h
+/home/user/arduino/hardware/arduino/cores/arduino/Arduino.h:
+/home/user/arduino/hardware/arduino/cores/arduino/binary.h:
+/home/user/arduino/hardware/arduino/cores/arduino/WCharacter.h:
+/home/user/arduino/hardware/arduino/cores/arduino/WString.h:
+/home/user/arduino/hardware/arduino/cores/arduino/HardwareSerial.h:
+/home/user/arduino/hardware/arduino/cores/arduino/Stream.h:
+/home/user/arduino/hardware/arduino/cores/arduino/Print.h:
+/home/user/arduino/hardware/arduino/cores/arduino/Printable.h:
+/home/user/arduino/hardware/arduino/cores/arduino/USBAPI.h:
+/home/user/arduino/hardware/arduino/cores/arduino/Arduino.h:
+/home/user/arduino/hardware/arduino/variants/standard/pins_arduino.h:
+/home/user/arduino/hardware/arduino/cores/arduino/Arduino.h:

@@ -1,0 +1,35 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/avr-g++",
+      "-Os",
+      "-Wall",
+      "-fno-exceptions",
+      "-ffunction-sections",
+      "-fdata-sections",
+      "-funsigned-char",
+      "-funsigned-bitfields",
+      "-fpack-struct",
+      "-fshort-enums",
+      "-mmcu=atmega328p",
+      "-DF_CPU=16000000L",
+      "-DARDUINO=100",
+      "-DUSB_VID=",
+      "-DUSB_PID=",
+      "-I.",
+      "-Iutil",
+      "-Iutility",
+      "-I",
+      "/home/user/arduino/hardware/arduino/cores/arduino",
+      "-I",
+      "/home/user/arduino/hardware/arduino/variants/standard/",
+      "-c",
+      "-o",
+      "main.o",
+      "main.cpp"
+    ],
+    "directory": "/home/user/code/arduino",
+    "file": "/home/user/code/arduino/main.cpp",
+    "output": "/home/user/code/arduino/main.o"
+  }
+]
