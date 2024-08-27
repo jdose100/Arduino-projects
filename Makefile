@@ -6,5 +6,4 @@ include ~/Downloads/arduino.mk
 
 all:
 	make upload
-	rm main.o
 
