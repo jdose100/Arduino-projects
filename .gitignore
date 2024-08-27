@@ -1,1 +1,4 @@
-build/
+.lib/
+.dep/
+main.cpp.hex
+
